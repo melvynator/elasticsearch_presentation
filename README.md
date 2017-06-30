@@ -319,7 +319,7 @@ GET idealab/people/_search
 ```
 
 Boolean query
-```
+```json
 GET idealab/people/_search
 {
   "query": {
@@ -344,7 +344,7 @@ GET idealab/people/_search
 ```
 
 More like this
-```
+```json
 GET idealab/_search
 {
     "query": {
