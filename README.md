@@ -1,5 +1,6 @@
 # An introduction to elasticsearch
 
+You can find the slide online : https://www.slideshare.net/hypto/introduction-to-elasticsearch-77397149
 
 Let's create an index
 ```json
